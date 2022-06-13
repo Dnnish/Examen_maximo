@@ -27,12 +27,15 @@ Apartado 2
 
 
 para empezar creando la imagen tenemos que hacer un pull del tomcat
-luego tenemos que crear un repositorio y luego crear un vi con el nombre dockerfile
+luego tenemos que crear un repositorio y luego crear un vi , en el vi ponemos todo lo que nos indica la pagina
 ![image](https://user-images.githubusercontent.com/97433514/173311957-a943961e-f2d8-440a-82b0-2efef65310ea.png)
-
+luego creamos la imagen con el comando de buid de la imagen
 ![image](https://user-images.githubusercontent.com/97433514/173314401-39ad2e33-a2d7-4f48-953b-47121f7213be.png)
 
-
+luego le ponemos la etiqueta en mi caso le puse d3nnis1234/tomcat
 ![image](https://user-images.githubusercontent.com/97433514/173315380-4158015c-24d3-484b-bab0-c82c7746c7ef.png)
+luego lo subimo a hub con el comando siguiente
+![image](https://user-images.githubusercontent.com/97433514/173319272-e60524a3-67f3-48a5-99be-4dd5aa95940e.png)
+
 
 
